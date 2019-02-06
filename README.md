@@ -1,4 +1,4 @@
-# vh41-auto-controller
+# vh41de-auto-trans-controller
 
 Helping out a mate's dad who required an Arduino to control a Nissan VH41DE automatic transmission. The VH41DE has been swapped from a Nissan Cima into a Nissan 240z. The original ECU is no longer being used hence the need for an alternative controller. The engine itself is being controller by a MegaSquirt ECU.
 
